@@ -1,5 +1,5 @@
 # ANDROID-STUDIO-INSTALL
-EX_01_INSTALLING AND RUNNING APPLICATIONS ON ANDROID STUDIO
+EX_01_INSTALLING AND RUNNING APPLICATIONS ON ANDROID STUDIO 
 
 # AIM:
 To install and run Android applications using Android Studio, This project aims to understand app development and testing in a real-time Android environment.
